@@ -21,4 +21,8 @@ Reference Paper:
 1. Classification of Skin Lesion by Interference of Segmentation and Convolution Neural Network. Authors: Mobeen ur Rehman ; Sharzil Haris Khan ; S M Danish Rizvi ; Zeeshan Abbas ; Adil Zafar Published in: 2018 2nd International Conference on Engineering Innovation (ICEI)
 2. Deep Ensemble Learning for Skin Lesion Classification from Dermoscopic Images Authors: Ahmed H. Shahin ; Ahmed Kamal ; Mustafa A. Elattar Published in: 2018 9th Cairo International Biomedical Engineering Conference (CIBEC)
 
-References: 1. https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000 2. https://www.researchgate.net/profile/Li_Jia_Li/publication/221361415_ImageNet_a_Large-Scale_Hierarchical_Image_Database/links/00b495388120dbc339000000/ImageNet-a-Large-Scale-Hierarchical-Image-Database.pdf 3. https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53 4. https://ml-cheatsheet.readthedocs.io/en/latest/backpropagation.html
+References: 
+1. https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000 
+2. https://www.researchgate.net/profile/Li_Jia_Li/publication/221361415_ImageNet_a_Large-Scale_Hierarchical_Image_Database/links/00b495388120dbc339000000/ImageNet-a-Large-Scale-Hierarchical-Image-Database.pdf 
+3. https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53 
+4. https://ml-cheatsheet.readthedocs.io/en/latest/backpropagation.html
