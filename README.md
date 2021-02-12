@@ -3,7 +3,7 @@
 Identifying the type of skin cancer at an early stage is critical, so that treatment could be taken at the earliest. Our objective is to identify the type of skin cancer which will save a lot of time and efforts taken to review each and every report manually. Usually, training of neural networks for automated diagnosis of pigmented skin lesions is hampered by the small size and lack of diversity of available dataset of dermatoscopic images. We are going to tackle this problem by data augmentation. In the light of this objective, we seek to derive a general analysis and modeling approach to predict diagnostic category of skin lesions.
 
 Questions to address:<br>
-o The goal of this project is to leverage deep neural nets to develop an automated diagnosis of skin cancer from dermoscopic images.
+o The goal of this project is to leverage deep neural nets to develop an automated diagnosis of skin cancer from dermoscopic images. <br>
 o Reducing the time and cost constraints required in diagnostic tests with just a picture from any device
 
 Methodology:<br>
