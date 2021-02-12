@@ -1,0 +1,5 @@
+We have placed the trained model weights in the following location - 
+
+	
+ https://drive.google.com/open?id=1S4AEJtulhj5S2r4l_8npNcxM4bXhSccl
+

@@ -1,0 +1,13 @@
+Models:
+
+Code1 contains:
+CNN
+InceptionV3 + RMSprop
+InceptionV3 + SGD
+
+Code2 contains:
+CNN + InceptionResnet + RMSprop
+CNN + InceptionResnet + SGD
+Inceptionv3 Frozen
+Inceptionv3 Unfrozen 19 layers
+DenseNet

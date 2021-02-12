@@ -1,0 +1,8 @@
+
+Dataset Link -
+https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000/download
+
+Place in a folder with the following conventions
+Images - HAM10000_images_part_1
+	 HAM10000_images_part_2
+Flat file - HAM10000_metadata
